@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +128,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+=======
+_Store
+.AppleDouble
+.LSOverride
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+>>>>>>> 4b64e4f (Se añadieron todos los cambios del tutorial hasta modifiable in the admin)
